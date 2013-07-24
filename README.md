@@ -1,4 +1,11 @@
-node-manfred-touron
-===================
+Manfred Touron
+==============
 
-Manfred-Touron-as-a-plugin
+```shell
+npm install manfred-touron
+```
+
+```javascript
+var mt = require('manfred-touron');
+console.log(mt.firstName);
+```
