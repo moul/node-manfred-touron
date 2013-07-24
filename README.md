@@ -15,7 +15,7 @@ Usage
 console.log(require('manfred-touron').firstname);
 ```
 
-```coffee-script
+```coffee
 {firstname} = require 'manfred-touron'
 console.log firstname
 ```
