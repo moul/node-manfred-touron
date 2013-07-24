@@ -6,6 +6,10 @@ npm install manfred-touron
 ```
 
 ```javascript
-var mt = require('manfred-touron');
-console.log(mt.firstName);
+console.log(require('manfred-touron').firstname);
+```
+
+```coffee-script
+{firstname} = require 'manfred-touron'
+console.log firstname
 ```
