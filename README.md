@@ -1,6 +1,8 @@
 node manfred-touron
 ===================
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/node-manfred-touron.svg)](https://www.guardrails.io)
+
 Install
 -------
 
